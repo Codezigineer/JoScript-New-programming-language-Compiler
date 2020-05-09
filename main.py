@@ -1,3 +1,1 @@
-
-import errortypes as e
-
+import basictypes as e
